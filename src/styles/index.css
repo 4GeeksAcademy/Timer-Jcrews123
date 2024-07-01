@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+i{
+    padding-top: 10px;
+
+}
+#container{
+    padding-top: 50px;
+}
+.bg-secondary{
+border-radius: 5%;
+}
+P{
+    transform: scale(4);
+    padding-top: 15px;
+}
